@@ -91,4 +91,6 @@ Examples :
 
 
 
+#define USE_TCA9554
+#undef USE_PCA9557
 #endif  // _USER_CONFIG_OVERRIDE_H_
